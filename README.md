@@ -6,5 +6,6 @@ Fichiers/repertoires externes :
 - [classe Frog, implémentation de IFrog](../Frogger/src/frog/Frog.java)
 - [classe Game](src/gameCommons/Game.java)
 - [main du programme](src/gameCommons/Main.java)
+- [exemple](FroggerExample.jar)
 
 Projet à finir pour debut-mi décembre. A faire à 2 (même groupe de TP).
