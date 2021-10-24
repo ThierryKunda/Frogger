@@ -1,18 +1,10 @@
-## Getting Started
+# Mini projet Java pour IPO : __Frogger__
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Fichiers/repertoires externes :
+- [bibliothèque givenEnvironment.jar](givenEnvironment.jar)
+- [Interface IFrog.java](src/gameCommons/IFrog.java)
+- [classe Frog, implémentation de IFrog](../Frogger/src/frog/Frog.java)
+- [classe Game](src/gameCommons/Game.java)
+- [main du programme](src/gameCommons/Main.java)
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Projet à finir pour debut-mi décembre. A faire à 2 (même groupe de TP).
